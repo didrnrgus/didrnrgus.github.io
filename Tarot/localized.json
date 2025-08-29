@@ -1,0 +1,89 @@
+{
+  "keyword_0": ["새로운 시작", "New Beginning"],
+  "upright_0": ["새로운 모험이 다가옵니다. 두려움보다 호기심을 선택하세요.", "A new adventure approaches. Choose curiosity over fear."],
+  "reversed_0": ["충동적인 선택이 실수를 부를 수 있습니다. 한 번 더 생각하세요.", "Impulsive choices may lead to mistakes. Think twice."],
+
+  "keyword_1": ["능력 발휘", "Manifestation"],
+  "upright_1": ["오늘은 당신의 재능이 빛나는 날입니다. 원하는 것을 현실로 만들 수 있습니다.", "Today your talents shine. You can turn your desires into reality."],
+  "reversed_1": ["능력을 제대로 발휘하지 못하거나 속임수에 주의하세요.", "Beware of wasted talent or deception."],
+
+  "keyword_2": ["직관", "Intuition"],
+  "upright_2": ["겉보다는 속을 보세요. 직감이 오늘의 나침반입니다.", "Look beyond appearances. Intuition is your compass today."],
+  "reversed_2": ["혼란스러운 정보로 직감이 흐려질 수 있습니다. 신중히 판단하세요.", "Confusing information may cloud intuition. Judge carefully."],
+
+  "keyword_3": ["풍요", "Abundance"],
+  "upright_3": ["좋은 소식과 따뜻한 관계가 찾아옵니다. 마음의 여유를 즐기세요.", "Good news and warm relationships come. Enjoy emotional abundance."],
+  "reversed_3": ["과도한 집착이나 게으름이 기회를 놓치게 할 수 있습니다.", "Overindulgence or laziness may cause missed opportunities."],
+
+  "keyword_4": ["안정", "Stability"],
+  "upright_4": ["규칙과 질서를 지킬수록 원하는 결과를 얻을 수 있습니다.", "Order and rules bring desired results."],
+  "reversed_4": ["지나친 고집이 갈등을 만들 수 있습니다. 유연함이 필요합니다.", "Stubbornness may create conflict. Flexibility is needed."],
+
+  "keyword_5": ["전통", "Tradition"],
+  "upright_5": ["기존의 방식을 따르는 것이 유리합니다. 조언자를 찾으세요.", "Following established ways benefits you. Seek guidance."],
+  "reversed_5": ["관습에서 벗어나 새로운 방식을 시도해야 할 때입니다.", "It's time to break tradition and try something new."],
+
+  "keyword_6": ["선택", "Choice"],
+  "upright_6": ["중요한 선택의 순간이 옵니다. 마음의 진심을 따라가세요.", "A crucial choice arises. Follow your true heart."],
+  "reversed_6": ["결정을 미루거나 잘못된 유혹에 빠질 수 있습니다.", "Delays or wrong temptations may mislead you."],
+
+  "keyword_7": ["돌파", "Breakthrough"],
+  "upright_7": ["의지와 추진력으로 장애물을 넘어설 수 있는 날입니다.", "Willpower and drive help you overcome obstacles."],
+  "reversed_7": ["방향을 잃거나 무모한 행동이 실패를 부를 수 있습니다.", "Losing direction or recklessness may cause failure."],
+
+  "keyword_8": ["용기", "Courage"],
+  "upright_8": ["부드러운 힘이 강한 힘을 이깁니다. 자신을 믿으세요.", "Gentle strength overcomes brute force. Believe in yourself."],
+  "reversed_8": ["자신감 부족이나 과도한 억압이 발목을 잡을 수 있습니다.", "Lack of confidence or overcontrol may hold you back."],
+
+  "keyword_9": ["성찰", "Reflection"],
+  "upright_9": ["오늘은 혼자만의 시간이 필요합니다. 내면의 답을 찾아보세요.", "Take time alone today. Seek inner answers."],
+  "reversed_9": ["고립이 길어지면 기회를 놓칠 수 있습니다. 세상과 연결되세요.", "Too much isolation may miss chances. Reconnect with the world."],
+
+  "keyword_10": ["전환점", "Turning Point"],
+  "upright_10": ["예상치 못한 변화가 찾아옵니다. 흐름을 믿으세요.", "Unexpected change arrives. Trust the flow."],
+  "reversed_10": ["기회가 반복해서 지나가고 있습니다. 놓치지 않도록 하세요.", "Opportunities keep passing. Don't miss them."],
+
+  "keyword_11": ["균형", "Balance"],
+  "upright_11": ["공정함이 최고의 무기입니다. 올바른 선택이 좋은 결과를 만듭니다.", "Fairness is your strength. Right choices bring good results."],
+  "reversed_11": ["불공정하거나 왜곡된 판단이 문제를 만들 수 있습니다.", "Unfair or distorted judgment may cause issues."],
+
+  "keyword_12": ["관점 변화", "Shift in Perspective"],
+  "upright_12": ["잠시 멈춰서 다르게 바라볼 필요가 있습니다.", "Pause and see things differently."],
+  "reversed_12": ["무의미한 희생이나 시간 낭비에 주의하세요.", "Beware of meaningless sacrifice or wasted time."],
+
+  "keyword_13": ["끝과 시작", "End and Beginning"],
+  "upright_13": ["한 장의 문이 닫히면 새로운 문이 열립니다. 변화를 받아들이세요.", "One door closes, another opens. Embrace change."],
+  "reversed_13": ["변화를 거부하면 상황이 정체될 수 있습니다.", "Resisting change may cause stagnation."],
+
+  "keyword_14": ["조화", "Harmony"],
+  "upright_14": ["오늘은 중용이 답입니다. 무리하지 말고 균형을 지키세요.", "Moderation is key today. Keep balance."],
+  "reversed_14": ["과도한 집착이나 극단적인 태도가 문제를 만들 수 있습니다.", "Obsession or extremes may create problems."],
+
+  "keyword_15": ["유혹", "Temptation"],
+  "upright_15": ["달콤하지만 해로운 선택을 경계하세요. 자유를 잃지 마세요.", "Beware sweet but harmful choices. Keep your freedom."],
+  "reversed_15": ["속박에서 벗어날 기회가 찾아옵니다.", "A chance to break free from bondage appears."],
+
+  "keyword_16": ["붕괴", "Collapse"],
+  "upright_16": ["불안정한 것이 무너질 수 있습니다. 하지만 이것이 새 시작의 발판입니다.", "Instability may collapse, but it's a step to new beginnings."],
+  "reversed_16": ["작은 경고를 무시하면 더 큰 문제로 이어질 수 있습니다.", "Ignoring small warnings may lead to bigger trouble."],
+
+  "keyword_17": ["희망", "Hope"],
+  "upright_17": ["마음속의 희망이 현실이 되는 징조가 보입니다. 믿음을 가지세요.", "Hope in your heart begins to manifest. Keep faith."],
+  "reversed_17": ["실망스러운 소식이 있을 수 있지만 희망을 잃지 마세요.", "Disappointing news may come, but don't lose hope."],
+
+  "keyword_18": ["불확실성", "Uncertainty"],
+  "upright_18": ["보이지 않는 진실이 있습니다. 성급한 결정을 피하세요.", "Hidden truths exist. Avoid hasty decisions."],
+  "reversed_18": ["숨겨진 사실이 드러나며 혼란이 해소될 수 있습니다.", "Hidden facts reveal, easing confusion."],
+
+  "keyword_19": ["성공", "Success"],
+  "upright_19": ["밝고 긍정적인 에너지가 넘칩니다. 자신 있게 나아가세요.", "Bright, positive energy flows. Move forward confidently."],
+  "reversed_19": ["성과가 늦게 오거나 기대보다 작을 수 있습니다.", "Results may be delayed or smaller than expected."],
+
+  "keyword_20": ["부름", "Calling"],
+  "upright_20": ["과거의 선택이 결실을 맺는 날입니다. 새로운 방향이 보입니다.", "Past choices bear fruit. A new direction appears."],
+  "reversed_20": ["과거에 얽매여 앞으로 나아가지 못할 수 있습니다.", "Being stuck in the past may block progress."],
+
+  "keyword_21": ["완성", "Completion"],
+  "upright_21": ["목표를 이룰 수 있는 날입니다. 다음 여정을 준비하세요.", "You can achieve goals today. Prepare for the next journey."],
+  "reversed_21": ["마무리가 지연되거나 불완전한 상태가 이어질 수 있습니다.", "Completion may be delayed or remain incomplete."]
+}
