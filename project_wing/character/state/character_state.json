@@ -1,0 +1,21 @@
+{
+    "_comment": "Dragon stats per body colour slot. Each stat is 1..5 points and every dragon must spend exactly totalPoints. scales[stat][point - 1] is the multiplier on the prefab's authored value. A sheet that breaks either rule is rejected and the previous one stays.",
+    "version": 1,
+    "totalPoints": 15,
+    "scales": {
+        "hp_maxHp": [0.8, 0.9, 1.0, 1.1, 1.2],
+        "speed_baseSpeed": [0.9, 0.95, 1.0, 1.05, 1.1],
+        "control_verticalAcceleration": [0.6, 0.8, 1.0, 1.25, 1.5],
+        "control_verticalSpeed": [0.9, 0.95, 1.0, 1.05, 1.1],
+        "boost_boostMaxMultiplier": [0.9, 0.95, 1.0, 1.05, 1.1],
+        "boost_boostAcceleration": [0.8, 0.9, 1.0, 1.1, 1.2],
+        "defense_obstacleDamage": [1.25, 1.1, 1.0, 0.9, 0.8]
+    },
+    "characters": [
+        { "slot": 0, "id": "balanced",  "hp": 3, "speed": 3, "control": 3, "boost": 3, "defense": 3 },
+        { "slot": 1, "id": "tank",      "hp": 5, "speed": 1, "control": 2, "boost": 2, "defense": 5 },
+        { "slot": 2, "id": "speedster", "hp": 2, "speed": 5, "control": 2, "boost": 4, "defense": 2 },
+        { "slot": 3, "id": "technician","hp": 2, "speed": 3, "control": 5, "boost": 2, "defense": 3 },
+        { "slot": 4, "id": "sturdy",    "hp": 4, "speed": 3, "control": 3, "boost": 3, "defense": 2 }
+    ]
+}
